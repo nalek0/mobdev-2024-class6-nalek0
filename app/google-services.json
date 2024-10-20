@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845314561327",
+    "project_id": "lab6-2df10",
+    "storage_bucket": "lab6-2df10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845314561327:android:83b8e98b2311e9db8cbdda",
+        "android_client_info": {
+          "package_name": "com.nalek0.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ISsjEmt6EjMVgcsfmqgGCHvKaxjGuHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

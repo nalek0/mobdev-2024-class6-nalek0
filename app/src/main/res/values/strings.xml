@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="e_mail">example@gmail.com</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_in">Sign In</string>
+</resources>
